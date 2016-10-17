@@ -1,2 +1,2 @@
 print("Hello World")
-Github is so adorable!!!
+print("Github is so adorable!!!")
